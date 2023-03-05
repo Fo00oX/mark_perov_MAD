@@ -1,6 +1,6 @@
 package com.example.mark_perov_mad
 
-import org.junit.Assert.*
+import org.junit.Assert.assertEquals
 import org.junit.Test
 
 class GuessGameTest {
